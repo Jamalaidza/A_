@@ -1,0 +1,7 @@
+/home/jamalay/Dzhamalay/zachet/final_2/exam/_build/CMakeFiles/print.dir
+/home/jamalay/Dzhamalay/zachet/final_2/exam/_build/CMakeFiles/edit_cache.dir
+/home/jamalay/Dzhamalay/zachet/final_2/exam/_build/CMakeFiles/rebuild_cache.dir
+/home/jamalay/Dzhamalay/zachet/final_2/exam/_build/CMakeFiles/list_install_components.dir
+/home/jamalay/Dzhamalay/zachet/final_2/exam/_build/CMakeFiles/install.dir
+/home/jamalay/Dzhamalay/zachet/final_2/exam/_build/CMakeFiles/install/local.dir
+/home/jamalay/Dzhamalay/zachet/final_2/exam/_build/CMakeFiles/install/strip.dir
